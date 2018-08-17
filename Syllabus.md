@@ -100,7 +100,7 @@ all readings available as pdfs on our course group [tk]
 * Eli Pariser, "Introduction," "4. The You Loop," and "7. What You Want, Whether You Want It or Not" from *The Filter Bubble*, Penguin, 2011.
 
 **October 16**
-* Cathy O'Neil, "Introduction," "7. Sweating Bullets," and "10. That Targeted Citizen" from *Weapons of Math Destruction*, Broadway Books, 2016
+* Cathy O'Neil, "Introduction," "7. Sweating Bullets," and "10. The Targeted Citizen" from *Weapons of Math Destruction*, Broadway Books, 2016
 
 **October 23**
 * Nick Srnicek, "Platform Capitalism" from *Platform Capitalism*, Polity Press, 2017 
