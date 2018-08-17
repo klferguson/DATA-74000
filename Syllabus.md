@@ -113,10 +113,10 @@ all readings available as pdfs on our course group [tk]
 * Jennifer Holt and Patrick Vonderau, "'Where the Internet Lives': Data Centers as Cloud Infrastructure" from *Signal Traffic: Critical Studies of Media Infrastructures*, edited by Lisa Parks and Nicole Starosielski, U of Illinois P, 2015.
 
 **November 6**
-*Nicole Starosielski, "Fixed Flow: Undersea Cables as Media Infrastructure" from *Signal Traffic: Critical Studies of Media Infrastructures*, edited by Lisa Parks and Nicole Starosielski, U of Illinois P, 2015.
+* Nicole Starosielski, "Fixed Flow: Undersea Cables as Media Infrastructure" from *Signal Traffic: Critical Studies of Media Infrastructures*, edited by Lisa Parks and Nicole Starosielski, U of Illinois P, 2015.
 
 **November 13**
-*Jonathan Sterne, "Compression: a Loose History" from *Signal Traffic: Critical Studies of Media Infrastructures*, edited by Lisa Parks and Nicole Starosielski, U of Illinois P, 2015.
+* Jonathan Sterne, "Compression: a Loose History" from *Signal Traffic: Critical Studies of Media Infrastructures*, edited by Lisa Parks and Nicole Starosielski, U of Illinois P, 2015.
 
 **November 20**
 * Catch-Up / Data Day
@@ -130,7 +130,7 @@ all readings available as pdfs on our course group [tk]
 * Virginia Eubanks, "Introduction," "3. High-Tech Homelessness in the City of Angels," and "4. The Allegheny Algorithm" from *Automating Inequality*, St. Martin's Press, 2017
 
 **December 11**
-*Safiya Umoja Noble, "Introduction," "2. Searching for Black Girls," and "3. Searching for People and Communities" from *Algorithms of Oppression*, NYU Press, 2018 
+* Safiya Umoja Noble, "Introduction," "2. Searching for Black Girls," and "3. Searching for People and Communities" from *Algorithms of Oppression*, NYU Press, 2018 
 
 **December 18**
 Final projects due
