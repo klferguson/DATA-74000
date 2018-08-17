@@ -1,3 +1,5 @@
+##draft##
+
 ## Data, Place, and Society
 DATA 74000
 Fall 2018
