@@ -1,5 +1,3 @@
-##draft##
-
 ## Data, Place, and Society
 DATA 74000
 Fall 2018
@@ -8,7 +6,6 @@ Tuesdays 6:30–8:30 - Room tba
 
 **Dr. Kevin L. Ferguson**  
 kevinlferguson9@gmail.com  
-http://www.kevinlferguson.com
 office: room 5307
   
 Course Site: https://data74000.commons.gc.cuny.edu/
@@ -28,7 +25,7 @@ Students will be expected to participate in class discussions, contribute to a w
 * They will also be able to advance arguments about data analysis cases, data infrastructure, and data applications.
 
 
-Assessment
+### Assessment
 * Class participation is crucial in this course. There will be ample opportunities for discussion in each class, and graded weekly presentations on the readings will be assigned. 
 * In lieu of a midterm exam, students will write a series of blog posts examining theoretical concepts discussed in class, connecting them to a current event having to do with data.
 * The final assignment consists of an oral presentation and a research paper. 
@@ -52,12 +49,12 @@ Assessment
 
 **Final Projects**
 
-* [insert paper description]
+* [details to come]
 
 
 **Grading** 
 
-* Regular participation in discussions across the range of our face-to-face and online course spaces is essential. A significant part of our course will involve experimentation and play with various digital humanities tools. There will also be an emphasis throughout the course on online participation through various projects and weekly online discussions that will contribute to your final grade. (30%)
+* Regular participation in discussions across the range of our face-to-face and online course spaces is essential. There will also be an emphasis throughout the course on online participation through various projects and weekly online discussions that will contribute to your final grade. (30%)
 
 * Presentation (20%)
 
@@ -65,12 +62,12 @@ Assessment
 
 **Accounts** 
 
-Immediately following the first class, all students should register for accounts on [CUNY Academic Commons](https://commons.gc.cuny.edu/)
+Immediately following the first class, all students should register for accounts on [CUNY Academic Commons](https://commons.gc.cuny.edu/) 
 
 
 **Readings** 
 
-all readings available as pdfs on our course group [tk]
+all readings available as pdfs on our course group (link on the course site)
 
 
 ### Course Schedule and Preliminary Syllabus (subject to change)
