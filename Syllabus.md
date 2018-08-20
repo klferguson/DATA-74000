@@ -11,7 +11,7 @@ kevinlferguson9@gmail.com
 http://www.kevinlferguson.com
 office: room 5307
   
-Course Site: [data74000.commons.gc.cuny.edu/]
+Course Site: https://data74000.commons.gc.cuny.edu/
 
 ### Course Description
 Big data and computational methods for its analysis are changing scientific and humanities research, financial markets, political campaigning, higher education and countless other areas, and also affect our everyday lives. Our daily existence is increasingly structured by software systems that process massive amounts of data and generate results such as music and book recommendations, search engines outputs, car routes, airline prices, and advertising content.
