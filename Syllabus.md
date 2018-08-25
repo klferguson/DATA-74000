@@ -2,11 +2,11 @@
 DATA 74000
 Fall 2018
 CUNY Graduate Center  
-Tuesdays 6:30–8:30 - Room tba
+Tuesdays 6:30–8:30 • Room 7395
 
 **Dr. Kevin L. Ferguson**  
 kevinlferguson9@gmail.com  
-office: room 5307
+office: room 5307.02
   
 Course Site: https://data74000.commons.gc.cuny.edu/
 
