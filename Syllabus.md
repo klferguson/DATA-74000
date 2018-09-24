@@ -6,7 +6,7 @@ Tuesdays 6:30–8:30 • Room 7395
 
 **Dr. Kevin L. Ferguson**  
 kevinlferguson9@gmail.com  
-office: room 5307.02
+office: room 5307.02  
 office hours: 5:00–6:00
   
 Course Site: https://data74000.commons.gc.cuny.edu/
